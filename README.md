@@ -19,9 +19,10 @@
  <div>
    <h6> How to Play:</h6>
    <ul>
-     <li>click one from three options.</li>
-     <li>computer will choose one automatically</li>
-     <li>then, the result will apppear in the message box </li>
+     <li>Two players are required. There is no computer</li>
+     <li>First click any of the 9 boxes you want and same for the player 2 click any of the 8 boxe</li>
+     <li>After clicking the box it will not modify till you click the <button>Reset Game</button></li>
+     <li>and at last you can see your score </li>
      <li>and at last you can see your score </li>
    </ul>
  </div>
